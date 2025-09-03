@@ -25,7 +25,7 @@ Atualmente estudo e aplico conceitos de:
 
 ## 📂 Projetos em Destaque
 
-### 📚 [BooksApp](https://github.com/seu-usuario/BooksApp)
+### 📚 [BooksApp](https://github.com/mouralucas04/BooksApp)
 Aplicativo Android em **Jetpack Compose** que consome a **Google Books API**, permitindo pesquisar, filtrar e visualizar detalhes de livros.  
 - Focado em boas práticas: SOLID + Clean Architecture  
 - Uso do **Ktor Client** para requisições HTTP  
@@ -33,7 +33,7 @@ Aplicativo Android em **Jetpack Compose** que consome a **Google Books API**, pe
 
 ---
 
-### 🎓 [Study Smart](https://github.com/seu-usuario/StudySmart)
+### 🎓 [Study Smart](https://github.com/mouralucas04/StudySmart)
 Aplicativo Android para gestão de estudos.  
 - Cadastro de matérias e tarefas  
 - Temporizador de sessões com **Foreground Service**  
@@ -42,7 +42,7 @@ Aplicativo Android para gestão de estudos.
 
 ---
 
-### 🐋 [NarwhalApplication](https://github.com/seu-usuario/NarwhalApplication)
+### 🐋 [NarwhalApplication](https://github.com/mouralucas04/NarwhalApplication)
 Projeto experimental para explorar **Koog** e **Agentes de IA com Kotlin DSL**.  
 - Três implementações principais:  
   1. Agente para resolver operações matemáticas  
@@ -51,7 +51,7 @@ Projeto experimental para explorar **Koog** e **Agentes de IA com Kotlin DSL**.
 
 ---
 
-### 💳 [PicPay Challenge - Kotlin + Spring Boot](https://github.com/seu-usuario/PicPayChallenge-Kotlin)
+### 💳 [PicPay Challenge - Kotlin + Spring Boot](https://github.com/mouralucas04/PicPayChallenge-Kotlin)
 Implementação em **Kotlin + Spring Boot** do desafio PicPay.  
 - CRUD de usuários e transações  
 - Regras de negócio (COMMON pode enviar, MERCHANT só recebe)  
