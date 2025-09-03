@@ -6,10 +6,11 @@ Sou desenvolvedor em constante aprendizado, apaixonado por **Kotlin**, **Spring 
 Tenho interesse em **aplicativos móveis**, **back-end escalável**, **integração com APIs externas** e **inteligência artificial aplicada a software**.  
 
 Atualmente estudo e aplico conceitos de:
-- **Arquitetura limpa (Clean Architecture)**
+- **Arquitetura Limpa (Clean Architecture)**
 - **Princípios SOLID**
 - **POO avançada**
 - **Injeção de Dependência**
+- **Design Patterns**
 - **Boas práticas de versionamento com Git/GitHub**
 
 ---
@@ -20,6 +21,19 @@ Atualmente estudo e aplico conceitos de:
 - **Banco de Dados**: MySQL, SQLite  
 - **Ferramentas**: Git, GitHub, Gradle, Postman  
 - **Outros**: Ktor Client, Threads & Concorrência (pthreads), Koog (IA + Kotlin DSL)  
+
+---
+
+## 📚 O que estou aprendendo no momento
+- **CMP e KMP (Compose Multiplatform e Kotlin Multiplatform)** → para criar interfaces que funcionam em diversos dispositivos (**Android, iOS, Desktop, Web**).  
+  - Isso faz parte da minha caminhada para me tornar **Full-Stack**, unindo **mobile** e **back-end**.  
+
+- **Gerenciamento de Agentes de IA com Koog (Kotlin DSL)** → estudando como estruturar agentes que **se comunicam, tomam decisões e utilizam ferramentas (tools)** para:  
+  - Processar dados de forma distribuída  
+  - Executar operações matemáticas, análises de imagens e sistemas de banking  
+  - Criar arquiteturas com **ciclos customizados** ou com **agentes principais coordenando subagentes**  
+
+- **Futuro próximo**: estudar o **Spring AI** (novo módulo do Spring Framework), para unir **IA** com aplicações back-end robustas.  
 
 ---
 
@@ -61,17 +75,16 @@ Implementação em **Kotlin + Spring Boot** do desafio PicPay.
 ---
 
 ## 📈 O que estou buscando
-- Melhorar minhas habilidades em **engenharia de software**  
-- Criar soluções completas do **mobile ao back-end**  
+- Melhorar minhas habilidades em **Engenharia de Software**  
+- Criar soluções completas do **Mobile ao Back-End**  
 - Explorar **IA aplicada a sistemas distribuídos**  
-- Colaborar em projetos **open source**  
+- Colaborar em projetos **Open Source**
 
 ---
 
 ## 📫 Contato
-- ✉️ Email: **lucas.seuemail@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-- 🐙 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)  
+- ✉️ Email: **lucassmoura2005@gmail.com**  
+- 🐙 GitHub: [github.com/seu-usuario](https://github.com/mouralucas04)  
 
 ---
 
