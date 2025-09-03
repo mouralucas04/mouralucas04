@@ -24,6 +24,7 @@ Atualmente estudo e aplico conceitos de:
 ![Blog](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 - **Linguagens**: Kotlin, Java, C, SQL  
 - **Frameworks**: Spring Boot, Jetpack Compose  
