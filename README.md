@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Olá, eu sou o Lucas Moura!
 
 Sou desenvolvedor em constante aprendizado, apaixonado por **Kotlin**, **Spring Boot**, **Android** e **boas práticas de programação**.  
