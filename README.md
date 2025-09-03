@@ -57,7 +57,7 @@ Atualmente estudo e aplico conceitos de:
 
 ## 📂 Projetos em Destaque
 
-### 📚 [BooksApp](https://github.com/mouralucas04/BooksApp)
+### 📚 [BooksApp](https://github.com/mouralucas04/BooksApp.git)
 Aplicativo Android em **Jetpack Compose** que consome a **Google Books API**, permitindo pesquisar, filtrar e visualizar detalhes de livros.  
 - Focado em boas práticas: SOLID + Clean Architecture  
 - Uso do **Ktor Client** para requisições HTTP  
