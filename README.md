@@ -16,6 +16,9 @@ Atualmente estudo e aplico conceitos de:
 ---
 
 ## 🚀 Tecnologias & Ferramentas
+
+[![Blog](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]
+
 - **Linguagens**: Kotlin, Java, C, SQL  
 - **Frameworks**: Spring Boot, Jetpack Compose  
 - **Banco de Dados**: MySQL, SQLite  
