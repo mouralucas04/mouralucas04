@@ -102,7 +102,7 @@ Implementação em **Kotlin + Spring Boot** do desafio PicPay.
 
 ## 📫 Contato
 - ✉️ Email: **lucassmoura2005@gmail.com**  
-- 🐙 GitHub: [github.com/seu-usuario](https://github.com/mouralucas04)  
+- 🐙 GitHub: [github.com/mouralucas04](https://github.com/mouralucas04)  
 
 ---
 
