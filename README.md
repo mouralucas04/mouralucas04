@@ -27,9 +27,9 @@ Atualmente estudo e aplico conceitos de:
 
 - **Linguagens**: Kotlin, Java, C, SQL  
 - **Frameworks**: Spring Boot, Jetpack Compose  
-- **Banco de Dados**: MySQL, SQLite  
-- **Ferramentas**: Git, GitHub, Gradle, Postman  
-- **Outros**: Ktor Client, Threads & Concorrência (pthreads), Koog (IA + Kotlin DSL)  
+- **Banco de Dados**: MySQL  
+- **Ferramentas**: Git, GitHub, Postman  
+- **Outros**: Ktor Client, Room, Threads & Concorrência (pthreads), Koog (IA + Kotlin DSL)  
 
 ---
 
@@ -83,7 +83,7 @@ Projeto experimental para explorar **Koog** e **Agentes de IA com Kotlin DSL**.
 
 ---
 
-### 💳 [PicPay Challenge - Kotlin + Spring Boot](https://github.com/mouralucas04/PicPayChallenge-Kotlin)
+### 💳 [PicPay Challenge - Kotlin + Spring Boot](https://github.com/mouralucas04/PicPayChallenge)
 Implementação em **Kotlin + Spring Boot** do desafio PicPay.  
 - CRUD de usuários e transações  
 - Regras de negócio (COMMON pode enviar, MERCHANT só recebe)  
