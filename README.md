@@ -1,5 +1,6 @@
 # 👋 Olá, eu sou o Lucas Moura!
 
+Sou estudante de **Engenharia de Software na UFAM (Universidade Federal do Amazonas)**, atualmente no **4º período**, e apaixonado por **desenvolvimento de software**.
 Sou desenvolvedor em constante aprendizado, apaixonado por **Kotlin**, **Spring Boot**, **Android** e **boas práticas de programação**.  
 Tenho interesse em **aplicativos móveis**, **back-end escalável**, **integração com APIs externas** e **inteligência artificial aplicada a software**.  
 
@@ -42,6 +43,15 @@ Atualmente estudo e aplico conceitos de:
   - Criar arquiteturas com **ciclos customizados** ou com **agentes principais coordenando subagentes**  
 
 - **Futuro próximo**: estudar o **Spring AI** (novo módulo do Spring Framework), para unir **IA** com aplicações back-end robustas.  
+
+---
+
+## 💡 Soft Skills
+- 🤝 Trabalho em equipe e colaboração  
+- 📢 Boa comunicação e clareza na troca de ideias  
+- 🧩 Resolução de problemas complexos  
+- 📈 Organização e disciplina no aprendizado  
+- 💭 Capacidade de adaptação e pensamento crítico  
 
 ---
 
